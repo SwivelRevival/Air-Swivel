@@ -2,7 +2,7 @@
 
 This repository provides automatically-generated externs for the AIR api for use with Haxe's swf target.
 
-The current externs are generated from the [AIR SDK version 32.0](https://airdownload.adobe.com/air/win/download/32.0/AdobeAIRSDK.zip).
+The current externs are generated from the [AIR SDK version 32.0](https://airdownload.adobe.com/air/win/download/32.0/AdobeAIRSDK.zip). They can be updated to [Harman Air](https://airsdk.harman.com/).
 
 ## Usage
 
